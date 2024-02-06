@@ -1,5 +1,7 @@
 # Lambda Expressions in Problem Solving
 
+![Lambda_Expressions](images/Lambda_img.png)
+
 ## Overview
 
 This repository contains a collection of problems solved using lambda expressions in various scenarios, primarily focusing on parsing files and filtering CSV objects based on specific criteria. Lambda expressions provide concise syntax for writing inline functions, making them particularly useful for tasks involving data manipulation and filtering.
