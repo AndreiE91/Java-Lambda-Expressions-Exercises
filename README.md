@@ -38,7 +38,7 @@ public class CsvParser {
 
 ### Problem 2: Display only names of people who work during certain hour interval and drink coffee at breakfast
 
-Solution to similar type of problems available in code, sample data file also available in repository files as 'Activities.txt'
+Solution to similar type of problems available in code, sample data file also available in repository files as `Activities.txt`
 
 ## Usage
 
