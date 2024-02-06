@@ -34,3 +34,20 @@ public class CsvParser {
         filteredObjects.forEach(System.out::println);
     }
 }
+```
+
+### Problem 2: Display only names of people who work during certain hour interval and drink coffee at breakfast
+
+Solution to similar type of problems available in code, sample csv data file also available in repository files
+
+## Usage
+
+To run the sample code, simply execute the `Main` class. Ensure you have Java installed on your system.
+
+## Cloning Instructions
+
+To clone this repository, run the following command in your terminal:
+
+```bash
+git clone https://github.com/AndreiE91/Java-Lambda-Expressions-Exercises.git
+```
